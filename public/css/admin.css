@@ -1,0 +1,11 @@
+body {
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+.card-title {
+    font-weight: 700;
+}
+
+#apiResponse {
+    white-space: pre-wrap;
+}
